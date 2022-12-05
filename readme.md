@@ -1,2 +1,1 @@
-This readme file is pretty empty
-asd
+Project with crypto price timeseries and pattern recognition with classification task.
